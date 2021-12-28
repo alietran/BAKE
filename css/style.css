@@ -94,7 +94,7 @@ button:hover {
 /* carousel */
 
  section .carousel {
-  background-image: url("/img/b3.jpg");
+  background-image: url("../img/b3.jpg");
   background-size: cover;
   color: white;
   text-align: center;
@@ -218,7 +218,7 @@ button:hover {
 }
 /* SERVICE */
 .service {
-  background-image: url("/img/s1.jpg");
+  background-image: url("../img/s1.jpg");
   background-size: cover;
   text-align: center;
   padding: 70px 0;
