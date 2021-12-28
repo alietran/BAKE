@@ -518,7 +518,7 @@ figcaption h3 {
 
 /* FEEDBACKS */
 .feedback {
-  background-image: url("/img/cc1.jpg");
+  background-image: url("../img/cc1.jpg");
   padding: 70px 0;
   /* width: 94.8rem; */
   background-size: cover;
